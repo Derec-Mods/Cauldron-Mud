@@ -1,8 +1,8 @@
-name: CauldronConcrete
-version: '1.0.2.1'
+name: CauldronMud
+version: '1.0.0.0'
 main: io.github.derec4.cauldronConcrete.CauldronConcrete
 api-version: '1.19'
 prefix: DerexXD
 authors: [ DerexXD ]
-description: Vanilla friendly way to get concrete quicker!
+description: Vanilla friendly way to get mud using cauldrons!
 website: https://derec4.github.io/derexsmp/
